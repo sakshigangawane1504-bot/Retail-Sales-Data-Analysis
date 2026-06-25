@@ -1,4 +1,5 @@
 🛒 Retail Sales Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing retail sales data to uncover business insights, customer purchasing patterns, product performance, and revenue trends. Using data analytics techniques, the project transforms raw sales data into actionable insights that can support strategic business decisions.
